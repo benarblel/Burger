@@ -1,0 +1,26 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-decoration: none;
+}
+
+li {
+    float: left;
+}
+
+.truc {
+    font-size: 200%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}
+
+.truc img {
+max-width: 30%;
+}
+
+.truc p{
+    flex: auto;
+    padding-left: 10%;
+}
